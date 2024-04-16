@@ -1,5 +1,5 @@
-<H4>Name: Jegathish S</H4>
-<H4>Reg. No: 212221230041</H4>
+<H4>Name: Vijay R</H4>
+<H4>Reg. No: 212221230121</H4>
 <H3>EX. NO.4</H3>
 <H3>DATE:</H3>
 <H1 ALIGN =CENTER> Implementation of Hidden Markov Model</H1>
